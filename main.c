@@ -2,5 +2,6 @@
 
 void main(void)
 {
+    printf("test main");
     return;
 }
